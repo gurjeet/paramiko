@@ -1,3 +1,12 @@
+The purpose of my (Gurjeet) fork is to automate the Python-to-JavaScript
+conversion of this code, so that it can be used in JS environments (like
+browser plugins, NodeJS, etc.). There _is_ already a JS port of this
+library, at [ParamikoJS], but I'm unsure of its code quality, and am of
+the opinion that an automatically converted solution would be more
+acceptable for security-conscious poeple. The intention is to use a
+language-tranlator, such as pyjs, to automate this conversion.
+
+[ParamikoJS]: https://github.com/mimecuvalo/paramikojs
 
 ========
 paramiko
